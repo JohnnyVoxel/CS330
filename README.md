@@ -1,2 +1,2 @@
-# CS332
+# CS330
 Computational Graphics and Visualization
